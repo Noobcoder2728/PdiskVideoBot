@@ -146,7 +146,7 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ━━━━━━━━━━━━━━━
-❓ How to Download or Watch Online or Change Audio ⇨ @PdiskTutorials
+❓ How to Download or Watch Online InlineKeyboardButton("👉Click Here👈", url="https://t.me/back_up_channel_tamils/3")
 ━━━━━━━━━━━━━━━
 🎉 Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ⇝ t.me/""" + CHANNEL
     return str + footer
